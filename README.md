@@ -1,4 +1,4 @@
-## Hi there, I'm Patrick 👋  
+## Hello there,
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=550&lines=Data+Scientist+%7C+Data+Analyst+%7C+Engineer;Turning+Complex+Data+into+Smart+Decisions;Python+%7C+Power+BI+%7C+SQL+%7C+Cloud;Building+Insight-Driven+Solutions" alt="Typing SVG" />
