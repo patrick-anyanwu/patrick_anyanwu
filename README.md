@@ -1,9 +1,9 @@
-## 👋 Hello there...
+## Hello there...
 
 
 ---
 
-## 🚀 About Me  
+## About Me  
 
 I'm an **Analytical and technically skilled Data Scientist & Engineer** passionate about transforming raw data into business value. With a background in **software engineering and data analytics**, I bridge the gap between technical systems and strategic decision-making.
 
