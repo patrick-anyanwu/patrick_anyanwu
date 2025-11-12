@@ -1,8 +1,6 @@
 
 ## Hello there...
 
-## About Me  
-
 I’m a Data Scientist & Engineer with a background in software engineering and analytics, passionate about turning complex data into actionable insights. I design scalable data pipelines, build automated dashboards, and apply machine learning to support data-driven decisions.
 
 With a Master of Data Science at Monash University, I'm currently focussing on integrating AI, Big Data analytics, and automation to make data more accessible and impactful.
