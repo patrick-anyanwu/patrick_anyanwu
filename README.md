@@ -17,7 +17,6 @@ With a Master of Data Science at Monash University, I'm currently focussing on i
 ### Software Engineer – Galaxy Backbone Ltd 
 *Feb 2021 – Feb 2023*  
 - Led data-driven feasibility studies for ICT infrastructure and cloud initiatives.
-- Delivered data insights for nationwide ICT and cloud infrastructure projects.
 - Built RESTful APIs and Python automation tools, reducing server setup time by 40%.
 
 
